@@ -4,12 +4,12 @@
     // Focalizar para exibir as descrições dos atributos existentes.
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [
+    "configurations": [ 
         {
             "name": "(gdb) Anexar",
             "type": "cppdbg",
             "request": "attach",
-            "program": "insira o nome do programa, por exemplo ${workspaceFolder}/a.out",
+            "program": "insira o nome do programa, por exemplo ${workspaceFolder}/a.out", 
             "MIMode": "gdb",
             "setupCommands": [
                 {
