@@ -2,14 +2,6 @@
 
 int main(){
 
-    // char estado1 [20] = "A";
-    // char codigo1 [20] = "A01";
-    // char cidade1 [20] = "São Paulo";
-    // int populacao1 = 11450000;
-    // float area1 = 1521;
-    // float PIB1 = 2719751231.00;
-    // int numero_de_pontos_turisticos1 = 65;
-
     // variáveis da primeira carta
     char estado1 [20];
     char codigo1 [20];
@@ -54,6 +46,8 @@ int main(){
 
     printf("============================================\n");
 
+    //dados inseridos da segunda carta
+
     printf("Segunda Carta \n");
 
     printf("Estado: ");
@@ -83,11 +77,11 @@ int main(){
     printf("Carta 1: \n");
     printf("Estado: A \n", estado1);
     printf("Código: A01 \n" , codigo1);
-    printf("Cidade: São Paulo \n", cidade1);
-    printf("População: 123.45000 \n" ,populacao1);
-    printf("Área: 152.111 Km² \n" , area1);
-    printf("PIB: 699.28 bilhões de reais \n" , PIB1);
-    printf("Número de Pontos Turísticos: 50 \n" , numero_de_pontos_turisticos1);
+    printf("Cidade: Amazonas \n", cidade1);
+    printf("População: 4.269.995 \n" ,populacao1);
+    printf("Área: 1.570.745,680 km² \n" , area1);
+    printf("PIB: 169,7 bilhões \n" , PIB1);
+    printf("Número de Pontos Turísticos: 57 \n" , numero_de_pontos_turisticos1);
 
     printf("============================================\n");
 
@@ -96,11 +90,11 @@ int main(){
     printf("Carta 2: \n");
     printf("Estado: B  \n", estado2);
     printf("Código: B02 \n" , codigo2);
-    printf("Cidade: Rio de Janeiro \n", cidade2);
-    printf("População: 674.8000 \n" ,populacao2);
-    printf("Área:1200.25 Km² \n" , area2);
-    printf("PIB: 300.50 bilhões de reais \n" , PIB2);
-    printf("Número de Pontos Turísticos: 30 \n" , numero_de_pontos_turisticos2);
+    printf("Cidade: Bahia \n", cidade2);
+    printf("População: 14.850.513 \n" ,populacao2);
+    printf("Área:567.295 km² \n" , area2);
+    printf("PIB: 482,8 bilhões \n" , PIB2);
+    printf("Número de Pontos Turísticos: 42 \n" , numero_de_pontos_turisticos2);
 
 
 
